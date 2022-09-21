@@ -1,4 +1,3 @@
-# Cryptographic-Machine
-Cryptographic Machine using Python
+# Cryptographic Machine Using Python
 
-![](https://github.com/edaxe/nexpense/blob/main/release/4.png) 
+![](https://github.com/diyaajith/Cryptographic-Machine/blob/main/Assets/Sample.png) 
